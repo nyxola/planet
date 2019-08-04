@@ -5,11 +5,9 @@ import numpy as np
 from Task2 import prep_vec, apply_calibration
 from osgeo import gdal, osr
 
-# Read and parse json file and initialise calibration tools
-fn = sys.argv[1]
-
 
 # Initialising the calibration spacing and vector from the input json file
+fn = sys.argv[1]
 def initialise_info(filen):
     with open(filen, 'r') as f:
         data = f.read()
