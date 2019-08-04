@@ -1,7 +1,9 @@
 ## Setup:
-conda environment used to install and run gdal.
+Python 3 has been used to create the code
+conda environment used to install and run gdal version 3.0.1
+numpy also installed in conda environment
 
-List of installed libraries ./environment.yml
+List of installed packages ./environment.yml
 
 
 ## Running Task1 from top directory
