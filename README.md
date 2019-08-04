@@ -1,5 +1,6 @@
-Setup:
-conda environment used to install and run gdal
+## Setup:
+conda environment used to install and run gdal.
+
 List of installed libraries ./environment.yml
 
 
