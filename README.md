@@ -11,7 +11,7 @@ List of installed libraries ./environment.yml
 Argument determines an example original UDM, default set to that in task
 
 
-## Running Task2 with 'Extra' TIFF output incldued 
+## Running Task2 with 'Extra' TIFF output included 
 > source setup.sh
 > python Task2/run.py Task2/calibration_vector.json
 
